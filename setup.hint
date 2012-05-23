@@ -1,4 +1,4 @@
 category: X11
-requires: libgcc1 libXaw7 libXmu6 libXt6
+requires: libXaw7 libXmu6 libXt6
 sdesc: "X.Org widget resource lister"
 ldesc: "X.Org widget resource lister"
